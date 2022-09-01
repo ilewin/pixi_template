@@ -1,0 +1,76 @@
+{"frames": {
+
+"back":
+{
+	"frame": {"x":0,"y":0,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+},
+"i":
+{
+	"frame": {"x":48,"y":0,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+},
+"j":
+{
+	"frame": {"x":96,"y":0,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+},
+"l":
+{
+	"frame": {"x":144,"y":0,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+},
+"o":
+{
+	"frame": {"x":192,"y":0,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+},
+"s":
+{
+	"frame": {"x":240,"y":0,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+},
+"t":
+{
+	"frame": {"x":288,"y":0,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+},
+"z":
+{
+	"frame": {"x":336,"y":0,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "tetrominos.png",
+	"format": "RGBA8888",
+	"size": {"w":384,"h":48},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:860124e0f8be64fa51c2c93290a4543f:fa2ca6f79072bfbce25cbf06da6b53c2:2dcbc3e8542f1c7834f50b1ba12399cb$"
+}
+}
